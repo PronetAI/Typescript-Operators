@@ -1,6 +1,8 @@
 // Arthematic Operators 
 // +, - , *, /,  %, ++, --, **
 
+// Incrementing Operators
+// =, =, -=, *=, %=
 var var1 : number = 10;
 var var2 : number = 20;
 var result : number = 0;
@@ -75,3 +77,10 @@ console.log();
 
 result= a ^ b;
 console.log();
+  
+
+// Ternary Operator 
+// ? : Will give the boolean output 
+var num1 : number = 5;
+var num2 = (num1 > 10)?
+console.log(num2);
