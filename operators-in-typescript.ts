@@ -28,3 +28,15 @@ console.log(result);
 
 b--;
 console.log(result);
+
+
+
+// Logical Operators 
+// && || !
+
+var one : boolean = true;
+
+console.log("AND GATE", a && b);
+console.log("OR GATE", a || b);
+console.log("NOT GATE", !a);
+var two : boolean = false;
