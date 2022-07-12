@@ -61,3 +61,17 @@ console.log(result);
 
 result = a === b;
 console.log(result);
+
+
+
+// Bitwise Operators
+// & | ^
+
+result= a & b;
+console.log();
+
+result= a | b;
+console.log();
+
+result= a ^ b;
+console.log();
