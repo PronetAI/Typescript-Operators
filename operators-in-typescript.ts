@@ -32,11 +32,32 @@ console.log(result);
 
 
 // Logical Operators 
-// && || !
+// &&, ||, !
 
 var one : boolean = true;
+var two : boolean = false;
 
 console.log("AND GATE", a && b);
 console.log("OR GATE", a || b);
 console.log("NOT GATE", !a);
-var two : boolean = false;
+
+
+// Comparison Operators 
+// >, <, >=, <=, == , ===
+result = a > b;
+console.log(result);
+
+result = a < b;
+console.log(result);
+
+result = a >= b;
+console.log(result);
+
+result = a <= b;
+console.log(result);
+
+result = a == b;
+console.log(result);
+
+result = a === b;
+console.log(result);
